@@ -1,0 +1,51 @@
+*{
+    background-color: antiquewhite;
+    
+}
+
+p{
+    color: black;
+    font-size: 2rem;
+   
+
+}
+h1{
+    font-size: 15rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    border: 2px solid black;
+    border-radius:;
+
+
+}  
+.mini{
+    font-size:larger ;
+    color: blue;
+}
+/* #new{
+    background-color: ;
+} */
+/* p{
+    width: 50%;
+} */
+body{
+    width: 75%;
+    height: auto;
+    padding:5%;
+    margin:0 auto;
+    background-image: url(../image/download.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    /* background-repeat: no-repeat;
+    text-align: center; */
+    
+    
+}
+p:hover{
+    background-color: gray;
+}
+ol>li{
+   
+    background-image: linear-gradient(to right, white,green) ;
+}

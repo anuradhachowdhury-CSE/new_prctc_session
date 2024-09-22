@@ -1,0 +1,26 @@
+nav>li{
+    list-style-type: none;
+ 
+}
+nav>li>a{
+    float: left;
+    text-decoration: none;
+    padding: 3%;
+}
+main{
+
+}
+table,td,th{
+    border: 1px solid ;
+}
+table{
+    border: 5px solid blue;
+    border-collapse: separate;
+    margin: 0 auto;
+}
+/* #hovers{
+    background-color: yellow;
+} */
+#hovers:hover{
+    background-color: blue;
+}
